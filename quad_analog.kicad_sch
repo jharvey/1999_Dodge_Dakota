@@ -2,15 +2,13 @@
 
   (uuid 00fc156d-0b7b-4552-a79a-b6eddee095c3)
 
-  (paper "A4")
+  (paper "B")
 
   (title_block
-    (title "rusEfi Proteus")
-    (date "2022-04-09")
-    (rev "v0.7")
+    (title "1999 Dodge Dakota Based on rusEFI/proteus")
+    (date "2023-08-12")
+    (rev "V0.1")
     (company "rusEFI")
-    (comment 1 "github.com/mck1117/proteus")
-    (comment 2 "rusefi.com/s/proteus")
   )
 
   (lib_symbols
