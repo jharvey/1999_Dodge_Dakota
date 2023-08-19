@@ -6,4 +6,6 @@
   (lib (name "conn_5_2.5mm")(type "KiCad")(uri "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/conn_5_2.5mm.pretty")(options "")(descr ""))
   (lib (name "sunlord-MWSA0503")(type "KiCad")(uri "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/sunlord-MWSA0503.pretty")(options "")(descr ""))
   (lib (name "PG-DSO-36-72")(type "KiCad")(uri "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/PG-DSO-36-72.pretty")(options "")(descr ""))
+  (lib (name "Dodge_Cons")(type "KiCad")(uri "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/Dodge_Cons.pretty")(options "")(descr ""))
+  (lib (name "LCSC_parts")(type "KiCad")(uri "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/LCSC.pretty")(options "")(descr ""))
 )

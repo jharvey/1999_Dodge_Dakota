@@ -7,4 +7,5 @@
   (lib (name "max9924")(type "Legacy")(uri "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/max9924.lib")(options "")(descr ""))
   (lib (name "lmr14020")(type "Legacy")(uri "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/lmr14020.lib")(options "")(descr ""))
   (lib (name "bts4175")(type "Legacy")(uri "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/bts4175.lib")(options "")(descr ""))
+  (lib (name "1999_Dodge_Connector_32x3cons")(type "KiCad")(uri "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/1999_Dodge_Connector_32x3cons.kicad_sym")(options "")(descr ""))
 )

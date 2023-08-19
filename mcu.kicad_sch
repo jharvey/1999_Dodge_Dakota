@@ -2,7 +2,7 @@
 
   (uuid 969b0491-f582-4cf8-94f0-e9bbf20da23f)
 
-  (paper "B")
+  (paper "C")
 
   (title_block
     (title "1999 Dodge Dakota Based on rusEFI/proteus")
@@ -2544,7 +2544,6 @@
       )
     )
   )
-
 
   (junction (at 160.655 50.165) (diameter 0) (color 0 0 0 0)
     (uuid 0ccf92a7-2c1d-46cd-9f4f-1c4b5d8f625f)
