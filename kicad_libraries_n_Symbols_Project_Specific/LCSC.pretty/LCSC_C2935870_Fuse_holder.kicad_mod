@@ -1,4 +1,4 @@
-(footprint "LCSC_C492610_Fuse_holder" (version 20211014) (generator pcbnew)
+(footprint "LCSC_C2935870_Fuse_holder" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5A1C8B0A)
   (descr "car blade fuse")
@@ -33,7 +33,7 @@
   (pad "1" thru_hole oval (at -2.15 0.35) (size 0.8 2.2) (drill oval 0.5 1.9) (layers *.Cu *.Mask) (tstamp e77e679f-b315-4fe7-8452-f759e6e286a6))
   (pad "2" thru_hole oval (at 2.15 0.35) (size 0.8 2.2) (drill oval 0.5 1.9) (layers *.Cu *.Mask) (tstamp 79f666d8-7a02-4383-a457-28e94d013ebe))
   (pad "2" thru_hole oval (at 5.85 0.35) (size 0.8 2.2) (drill oval 0.5 1.9) (layers *.Cu *.Mask) (tstamp a35cffd1-a89c-41f4-bfa6-142420dafdab))
-  (model "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/LCSC.pretty/3D/LCSC_C492610_Fuse_holder.step"
+  (model "${KIPRJMOD}/kicad_libraries_n_Symbols_Project_Specific/LCSC.pretty/3D/LCSC_C2935870_Fuse_holder.step"
     (offset (xyz 0 0 1.7))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
