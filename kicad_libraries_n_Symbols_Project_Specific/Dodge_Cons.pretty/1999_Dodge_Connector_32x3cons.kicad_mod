@@ -1,7 +1,7 @@
 (footprint "1999_Dodge_Connector_32x3cons" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 54478AE1)
-  (descr "PCM_CON_4x38_C1")
+  (descr "PCM_CON_4x38_C1 3D at https://cad.onshape.com/documents/fa3aa2a33605c89847de16d0/w/d388531771428ab5a57c7adc/e/f10c137a149d5e7b96b0ab6a?renderMode=0&uiState=64fa7e7f2a11bf34d2035fba")
   (tags "PCM_CON_4x38_C1")
   (attr through_hole)
   (fp_text reference "P1" (at -1.27 0) (layer "F.SilkS") hide
